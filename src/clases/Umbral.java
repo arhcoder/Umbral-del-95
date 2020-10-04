@@ -120,7 +120,7 @@ public class Umbral {
         System.out.println("Muertes entre el 59% y el 55% = "+p55);
         System.out.println("Muertes entre el 54% y el 50% = "+p50);
         System.out.println("Muertes entre el 49% y el  0% = "+p00);
-        System.out.println("Repeticiones ejecutadas: " + repeticiones);
+        System.out.println("\nRepeticiones ejecutadas: " + repeticiones);
         System.out.println("_______________________________________\n");
     }
 }
